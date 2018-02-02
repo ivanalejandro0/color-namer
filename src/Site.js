@@ -14,7 +14,7 @@ const logoStyle = {
 };
 
 const Site = () => (
-  <Layout style={{height:"100vh"}}>
+  <Layout style={{minHeight:"100vh"}}>
     <GithubLink />
     <Header>
       <div style={logoStyle}>Look for similar colors</div>
