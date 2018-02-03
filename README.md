@@ -8,4 +8,8 @@ I recommend you reading [Sass color variables that don't suck](https://davidwals
 as a strategy for naming colors he recommends the tool [Name that Color](http://chir.ag/projects/name-that-color/),
 which I used but I felt like I needed a bit more.
 
-Thanks to the [color-namer](https://github.com/zeke/color-namer) library (which does all the heavy lifting).
+
+## Acknowledgements
+
+Thanks to the [color-namer](https://github.com/zeke/color-namer) library, which does all the heavy lifting related to colors information.
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
